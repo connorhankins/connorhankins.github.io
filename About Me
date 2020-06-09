@@ -1,0 +1,233 @@
+<html>
+
+<div class="header1">
+  
+  
+    <h1 class="thin">Connor Hankins</h1>
+    
+
+    
+</div>
+
+<div class="navbar">
+    <a href="Homepage.html"><b>Home</a></b>
+  <div class="dropdown">
+      <button class="dropbtn"><b>About </b>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="About Me.html">About Me</a>
+      <a href="Professional Experience.html">Professional Experience</a>
+      <a href="Passions.html">Passions</a>
+    </div>
+  </div> 
+    <div class="dropdown">
+        <button class="dropbtn"><b>Media</b>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Blog.html">Blog</a>
+      <a href="Pictures.html">Pictures</a>
+      <a href="Projects.html">Projects</a>
+    </div>
+</div> 
+    <div class="navbar">
+        <a href="Contact Me Form.html"><b>Contact Me</a></b>
+    </button>
+      
+    
+    </div>
+  </div> 
+</div>
+
+
+
+
+    
+
+    
+<H1> About Me </H1>
+  
+ <br>
+    
+
+
+ I am a dedicated finance student at the Indiana University Kelley School of Business with an interest in further developing my database and programming skills through a co-major in technology management. Post-graduation, I will be joining the Microsoft Finance Rotation Program (FRP) where I will develop a variety of finance skills while working at one of the world’s prominent companies.
+ 
+    <br> <br>
+    
+My previous experience includes working at AbbVie Biopharmaceuticals as a Finance Intern in their Business Technology Solutions division where I received the AbbVie Excellence award for an innovative internship project. Moreover, I interned at Microsoft in their highly regarded FRP internship program where I developed an advanced PowerBI dashboard that was utilized by over 40 colleagues on my team and up to 350 business partners.
+
+<br> <br>
+
+Beyond a strong understanding of corporate finance and capital markets, I possess a variety of soft skills such as public speaking, leadership and teamwork that I continually attempt to develop. My public speaking skills were on display during my Microsoft internship as I was selected to discuss my internship experience during Microsoft Intern Day in front of 3,000 of my intern colleagues 
+
+<a href="https://www.youtube.com/watch?v=YkKxMOwAfWg">(Click Here for Video).</a></h2>
+        
+    
+<br> <br>
+    
+Outside of the classroom, I am passionate about further developing my communication skills through my involvement in WIUX college radio, where I have produced both business-talk shows and sports-talk programs. To give back to the Kelley School, I have volunteered to be a peer mentor for first-year Kelley students and have utilized my extensive accounting background to be an accounting peer-coach.
+
+Skills that I have excelled in and am continually working to master are: 
+
+<br> <br>    
+  
+<ul>
+    <li>Presentation Delivery </li>
+    <li>Data Analytics </li>
+    <li>Leadership </li>
+    <li>Tableau </li>
+    <li>Excel Data Modeling </li>
+    <li>MS PowerBI </li>
+    <li>SAP </li>
+    <li>VBA </li>
+    <li>HTML/CSS</li>
+
+</ul>    
+    
+I possess an enthusiasm to learn new things while having an endless drive to pursue my passions. In my free time, I enjoy listening to new podcasts and playing on an intramural basketball team. Looking to the future, I am excited to begin my career at Microsoft and work towards the company’s mission of empowering every person and every organization on the planet to achieve more.  </p.>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<br><br><br><br><br>
+    <footer>
+        
+    <div class="header1">
+  
+    
+        <div class="row">
+  <h1 class="rightthin">Connor Hankins</h1>
+    <h2 class="rightthin">Email: conmhankins@gmail.com</h2>
+     <h2 class="rightthin">Linkedin: https://www.linkedin.com/in/connorhankins/</h2>
+        
+        
+    
+        </div></div>
+    </footer>
+    
+
+</html>
+<style>
+    
+.header1 {
+padding: 5px;
+text-align: left;
+color: white;
+font-size: 12px;
+background-color: brown;
+font-family: sans-serif;
+font-weight: 100;
+}
+.header2 {
+padding: 5px;
+text-align: left;
+color: dimgray;
+font-size: 30px;
+background-color: whitesmoke;
+font-family: sans-serif;
+font-weight:lighter;
+line-height: 50%;
+}
+.left {
+float: left;
+padding: 0 5px 5px 0;
+}   
+.right {
+text-align: right;
+}  
+.thin{
+font-weight: 200;
+}
+    .rightthin{
+        text-align: right;
+        font-weight: 200;
+    }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: dimgray;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: brown;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: brown;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.column {
+  flex: 50%;
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  display: flex;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+</style>
