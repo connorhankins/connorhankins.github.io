@@ -1,0 +1,210 @@
+<html>
+
+<div class="header1">
+  
+  
+    <h1 class="thin">Connor Hankins</h1>
+    
+
+    
+</div>
+
+<div class="navbar">
+    <a href="Homepage.html"><b>Home</a></b>
+  <div class="dropdown">
+      <button class="dropbtn"><b>About </b>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="About Me.html">About Me</a>
+      <a href="Professional Experience.html">Professional Experience</a>
+      <a href="Passions.html">Passions</a>
+    </div>
+  </div> 
+    <div class="dropdown">
+        <button class="dropbtn"><b>Media</b>
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="Blog.html">Blog</a>
+      <a href="Pictures.html">Pictures</a>
+      <a href="Projects.html">Projects</a>
+    </div>
+</div> 
+    <div class="navbar">
+        <a href="Contact Me Form.html"><b>Contact Me</a></b>
+    </button>
+      
+    
+    
+    </div>
+  </div> 
+</div>
+
+
+<h1>Pictures</h1>
+
+
+
+<Br>
+
+<img src= https://pbs.twimg.com/profile_images/1238634589914116096/p9H_sC-y.jpg Alt= "Picture at Tolmie Peak" style="width:32.9%;height:400px;object-fit: cover" />
+    
+
+
+<img src= https://media-exp1.licdn.com/dms/image/C5122AQGItMXGKW9a_g/feedshare-shrink_800/0?e=1597881600&v=beta&t=ob68cBWp_nEX_TSOC1P_Gsa0fVpwJVcLlZFJ2r48kXY
+     Alt="Picture on the AbbVie Drug Discovery Process Tour" style="width:32.9%;height:400px;object-fit: cover" />
+
+<img src= https://media-exp1.licdn.com/dms/image/C5622AQEeKVfBlxlgOw/feedshare-shrink_800/0?e=1597881600&v=beta&t=UeGQ9uSi74xUi1SRN2lfOxArLXNObFpQrHye-tv9SaM
+     Alt="Picture on the AbbVie Drug Discovery Process Tour" style="width:32.8%;height:400px;object-fit: cover" />
+
+
+<img src= https://media-exp1.licdn.com/dms/image/C5122AQEG4yl5T9Sl-A/feedshare-shrink_2048_1536/0?e=1597881600&v=beta&t=vrsI8HHJ1Ch_z4Q3lKTiUheqbpmh6I2mwj48PPYRxk8
+     Alt="Picture on the AbbVie Drug Discovery Process Tour" style="width:32.8%;height:400px;object-fit: cover" />
+
+    
+<img src= https://media-exp1.licdn.com/dms/image/C5622AQEuFc28Nphqkg/feedshare-shrink_800/0?e=1597881600&v=beta&t=aIVLv_dyxzy4oSI9WhZyEMA5PMQ3X1VEnOZxqXlGkew Alt= "Picture at Tolmie Peak" style="width:32.8%;height:400px; object-fit: cover" />
+    
+<img src= https://media-exp1.licdn.com/dms/image/C5622AQEOddAwgO2UCw/feedshare-shrink_8192/0?e=1597881600&v=beta&t=O334sbTjn9djmgCst9-PVhdbWZLzCd8-8y-xnrrutJE Alt= "Picture at Tolmie Peak" style="width:32.8%;height:400px;object-fit: cover" />
+    
+
+
+
+
+    
+  
+
+<br><br><br><br><br>
+    <footer>
+        
+    <div class="header1">
+  
+    
+        <div class="row">
+  <h1 class="rightthin">Connor Hankins</h1>
+    <h2 class="rightthin">Email: conmhankins@gmail.com</h2>
+     <h2 class="rightthin">Linkedin: https://www.linkedin.com/in/connorhankins/</h2>
+        
+        
+    
+        </div></div>
+    </footer>
+    
+
+</html>
+<style>
+    
+.header1 {
+padding: 5px;
+text-align: left;
+color: white;
+font-size: 12px;
+background-color: brown;
+font-family: sans-serif;
+font-weight: 100;
+}
+.header2 {
+padding: 5px;
+text-align: left;
+color: dimgray;
+font-size: 30px;
+background-color: whitesmoke;
+font-family: sans-serif;
+font-weight:lighter;
+line-height: 50%;
+}
+.left {
+float: left;
+padding: 0 5px 5px 0;
+}   
+.right {
+text-align: right;
+}  
+.thin{
+font-weight: 200;
+}
+    .rightthin{
+        text-align: right;
+        font-weight: 200;
+    }
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: dimgray;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: brown;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: brown;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.column {
+  flex: 50%;
+    font-weight: 400;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  display: flex;
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+</style>
